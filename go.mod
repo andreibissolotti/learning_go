@@ -1,4 +1,4 @@
-module go-api
+module github.com/andreibissolotti/learning_go
 
 go 1.23.2
 

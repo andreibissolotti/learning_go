@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"go-api/internal/model"
-	"go-api/internal/repository"
+	"github.com/andreibissolotti/learning_go/internal/model"
+	"github.com/andreibissolotti/learning_go/internal/repository"
 )
 
 type ProductUseCase struct {

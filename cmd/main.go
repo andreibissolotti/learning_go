@@ -1,10 +1,10 @@
 package main
 
 import (
-	"go-api/internal/controller"
-	"go-api/internal/db"
-	"go-api/internal/repository"
-	"go-api/internal/usecase"
+	"github.com/andreibissolotti/learning_go/internal/controller"
+	"github.com/andreibissolotti/learning_go/internal/db"
+	"github.com/andreibissolotti/learning_go/internal/repository"
+	"github.com/andreibissolotti/learning_go/internal/usecase"
 
 	"github.com/gin-gonic/gin"
 )

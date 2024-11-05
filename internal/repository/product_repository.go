@@ -3,7 +3,8 @@ package repository
 import (
 	"database/sql"
 	"fmt"
-	"go-api/internal/model"
+
+	"github.com/andreibissolotti/learning_go/internal/model"
 )
 
 type ProductRepository struct {
